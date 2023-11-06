@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: tomato;
+}
+
+.inputSection {
+    margin-top: 30px;
+    text-align: start;
+}
+
+.inputSection input {
+    display: block;
+}
+
+.inputSection button {
+    margin-top: 20px;
+    width: 50px;
+}
+
+.listSection button{
+    width: 60px;
+    height: 40px;
+}
+
+#list {
+    font-size: 22px;
+}
+
+#list li {
+    text-align: start;
+    list-style: none;
+}
